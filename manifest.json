@@ -1,0 +1,10 @@
+{
+  "name": "Mehta Sanay Invoice",
+  "short_name": "MS Invoice",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef1f4",
+  "theme_color": "#18212b",
+  "description": "Offline-first Mehta Sanay invoice generator with optional Google Drive sync.",
+  "icons": []
+}
